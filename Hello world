@@ -1,0 +1,16 @@
+// Xunyuan Sun
+
+public class Main 
+{
+  
+  public static void main(String[] args) 
+  {
+    System.out.print("Two roads diverged in a yellow wood, ");
+    System.out.println("and sorry I could not travel both.");
+    System.out.print("And be one travelerlong I stood, ");
+    System.out.println("and looked down one as far as I could.");
+    System.out.println("To where it bent in the undergrowth;");
+
+  }
+  
+}
